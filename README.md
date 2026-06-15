@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 B.E. (Hons) Software Engineering · University of Bolton UAE · CGPA 3.4/4.0 <br>
-  📍 Chennai, India &nbsp;|&nbsp; Open to Chennai · Bangalore · Remote/Hybrid <br>
-  💼 Seeking: Junior Software Engineer · Data Analyst · Junior AI/ML Engineer
+  📍 Chennai, India &nbsp;|&nbsp; Open to work in Chennai · Remote/Hybrid <br>
+  💼 Seeking: Web developer · Junior Software Engineer · Data Analyst · Junior AI/ML Engineer
 </p>
 
 ---
