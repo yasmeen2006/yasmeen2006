@@ -39,7 +39,7 @@ and LLM APIs into real products, not just tutorials. Multilingual, detail-orient
 | 🧴 [GlowMate](https://github.com/yasmeen2006/GLOWMATE--AI-Skincare-Assistant-and-INGREDIENT-SCANNER) | AI skincare analysis SPA — computer vision + LLM, zero paid infrastructure | JS, Firebase, Groq, Llama 4 |
 | 🏨 [Hotel Cancellation Predictor](https://github.com/yasmeen2006/hotel-booking-cancellation-prediction) | ML model · 79.17% accuracy · ROC-AUC 0.84 · 119K rows | Python, Scikit-learn |
 | 🎓 [Student Management System](https://github.com/yasmeen2006/hotel-booking-cancellation-prediction) | Role-based desktop app with full CRUD | C#, SQL Server |
-| 🚌 NFC Bus Attendance System | Agile team project · NFC card scanning · automated check-in | Power Apps, Dataverse |
+| 🚌 [NFC Bus Attendance System](https://github.com/yasmeen2006/-NFC-COLLEGE-BUS-ATTENDANCE-SYSTEM) | Agile team project · NFC card scanning · automated check-in | Power Apps, Dataverse |
 | 📊 [BI Dashboard](https://github.com/yasmeen2006/shopping-center-dashboard) | Multi-page KPI dashboards with drill-through filters | Power BI, Dataverse |
 
 ---
