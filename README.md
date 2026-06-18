@@ -36,11 +36,11 @@ and LLM APIs into real products, not just tutorials. Multilingual, detail-orient
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧴 [GlowMate](#) | AI skincare analysis SPA — computer vision + LLM, zero paid infrastructure | JS, Firebase, Groq, Llama 4 |
+| 🧴 [GlowMate](https://github.com/yasmeen2006/GLOWMATE--AI-Skincare-Assistant-and-INGREDIENT-SCANNER) | AI skincare analysis SPA — computer vision + LLM, zero paid infrastructure | JS, Firebase, Groq, Llama 4 |
 | 🏨 [Hotel Cancellation Predictor](https://github.com/yasmeen2006/hotel-booking-cancellation-prediction) | ML model · 79.17% accuracy · ROC-AUC 0.84 · 119K rows | Python, Scikit-learn |
-| 🎓 [Student Management System](https://github.com/yasmeen2006/StudentManagementSystem) | Role-based desktop app with full CRUD | C#, SQL Server |
+| 🎓 [Student Management System](https://github.com/yasmeen2006/hotel-booking-cancellation-prediction) | Role-based desktop app with full CRUD | C#, SQL Server |
 | 🚌 NFC Bus Attendance System | Agile team project · NFC card scanning · automated check-in | Power Apps, Dataverse |
-| 📊 BI Dashboard | Multi-page KPI dashboards with drill-through filters | Power BI, Dataverse |
+| 📊 [BI Dashboard](https://github.com/yasmeen2006/shopping-center-dashboard) | Multi-page KPI dashboards with drill-through filters | Power BI, Dataverse |
 
 ---
 
@@ -50,17 +50,3 @@ and LLM APIs into real products, not just tutorials. Multilingual, detail-orient
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasmeenfirdous457@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yasmeen2006)
 
-<!--
-**yasmeen2006/yasmeen2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
